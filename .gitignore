@@ -1,0 +1,9 @@
+.vs/
+.vscode/
+bin/
+obj/
+test-output/
+*.user
+*.suo
+*.pdb
+*.tmp
